@@ -1,0 +1,130 @@
+
+# ECHR, CASE OF NACHOVA AND OTHERS v. BULGARIA
+
+(Applications nos. 43577/98 and 43579/98)
+
+6 July 2005
+
+Summary
+
+## The Facts
+
+13. In 1996 Mr Angelov and Mr Petkov, who were both 21 years old, were conscripts in the Construction Force (Строителни войски), a division of the army dealing with the construction of apartment blocks and other civilian projects.
+
+14. Early in 1996 Mr Angelov and Mr Petkov were arrested for being repeatedly absent without leave. On 22 May 1996 Mr Angelov was sentenced to nine months' imprisonment and Mr Petkov to five months' imprisonment. Both had previous convictions for theft.
+
+15. On 15 July 1996 they fled from a construction site outside the prison where they had been brought to work and travelled to the home of Mr Angelov's grandmother, Ms Tonkova, in the village of Lesura. Neither man was armed.
+
+16. Their absence was reported the following day and their names put on the military police's wanted list. A warrant for their arrest was received on 16 July 1996 by the Vratsa Military Police Unit.
+
+17. At around twelve noon on 19 July 1996, the officer on duty in the Vratsa Military Police Unit received an anonymous telephone message that Mr Angelov and Mr Petkov were hiding in the village of Lesura. On at least one of the previous occasions when he had been absent without leave, it was there that Mr Angelov had been found and arrested.
+
+18. The commanding officer, Colonel D., decided to dispatch four military police officers, under the command of Major G., to locate and arrest the two men. At least two of the officers knew one or both of them. Major G. apparently knew Lesura because, according to a secretary who worked at the town hall and was heard later as a witness, his mother was from the village.
+
+19. Colonel D. told the officers that "in accordance with the rules" they should carry their handguns and automatic rifles and wear bullet-proof vests. He informed them that Mr Angelov and Mr Petkov were "criminally active" (криминално проявени) - an expression used to denote persons with previous convictions or persons suspected of an offence - and that they had escaped from detention. The officers were instructed to use whatever means were dictated by the circumstances to arrest them.
+
+20. The officers immediately left for Lesura in a jeep. Two officers wore uniforms while the others were in civilian clothes. Only Major G. wore a bullet-proof vest. He was armed with a personal handgun and a 7.62 mm calibre Kalashnikov automatic rifle. The other men carried handguns. Three Kalashnikov automatic rifles remained in the boot of the vehicle throughout the operation.
+
+21. The officers were briefed orally by Major G. on their way to Lesura. Sergeant N. was to cover the east side of the house, Major G. the west side and Sergeant K. was to go into the house. Sergeant S., the driver, was to remain with the vehicle and keep watch over the north side.
+
+22. At around 1 p.m. the officers arrived in Lesura. They asked a secretary at the town hall and one of the villagers, Mr T.M., to join them and show them Mr Angelov's grandmother's house. The vehicle drove into Lesura's Roma district.
+
+23. Sergeant N. recognised the house since he had previously arrested Mr Angelov there for being absent without leave.
+
+24. As soon as the jeep drew up in front of the house, between 1 and 1.30 p.m., Sergeant K. recognised Mr Angelov, who was inside, behind the window. Having noticed the vehicle, the fugitives tried to escape. The officers heard the sound of a window pane being broken. Major G. and Sergeants K. and N. jumped out of the vehicle while it was still moving. Major G. and Sergeant K. went through the garden gate, the former going to the west side of the house, and the latter entering the house. Sergeant N. headed towards the east side of the house. Sergeant S. remained with the car, together with the secretary who worked at the town hall and Mr T.M.
+
+25. Sergeant N. later testified that, having noticed Mr Angelov and Mr Petkov escaping through the window and running towards a neighbour's yard, he had shouted: "Stop, military police!" He had pulled out his gun, but had not fired any shots. The two men had carried on running. Sergeant N. had run out into the street in an effort to intercept them by going round several houses. While running, he had heard Major G. shout: "Freeze, military police, freeze [or] I'll shoot!" It was then that the shooting had started.
+
+26. Major G. stated in his testimony:
+
+... I heard Sergeant N. shouting: 'Freeze, police' ... I saw the conscripts; they were running and then stopped in front of the fence between Ms Tonkova's and the neighbour's yards ... I saw that they were trying to jump over the [chain- link] fence, so I shouted: 'Freeze, or I'll shoot!' I released the safety catch and loaded the automatic gun. Then I fired a shot in the air, holding the automatic rifle upwards with my right hand, almost perpendicular to the ground ... The conscripts climbed over the [chain- link] fence and continued to run, I followed them, then I fired one, two or three more times in the air and shouted: 'Freeze!', but they continued running. I again fired shots in the air with the automatic and shouted: 'Freeze, or I will shoot with live cartridges.' I warned them again, but they continued running without turning back. I fired to the right [of the two men] with the automatic after the warning, aiming at the ground, hoping that this would make them stop running. I again shouted 'Freeze!' when they were at the corner of the other house and then I aimed and fired at them as they were scaling the fence. I aimed at their feet. The ground where I stood was at a lower level ... [B]y jumping over the second fence they would have escaped and I did not have any other means of stopping them. The gradient there was a bit steep, [I] was standing on lower ground ... the second fence was on the highest ground, that is why when I fired the first time I aimed to the side [of the two men], as I considered that nobody from the neighbouring houses would be hurt, and the second time I aimed at the conscripts, but fired at their feet. Under Regulation 45 we can use firearms to arrest members of the military forces who have committed a publicly prosecutable offence and do not surrender after a warning, but in accordance with paragraph 3 of [that regulation] we have to protect the lives of the persons against whom [we use firearms] - for that reason I fired at [the victims'] feet - with the intention of avoiding fatal injury. The last time that I shot at the conscripts' feet, I was twenty metres away from them and they were exactly at the south- east corner of the neighbouring yard. After the shooting they both fell down ... They were both lying on their stomachs, and both gave signs of life, ... moaning ... then Sergeant S. appeared, I called him ... and handed him my automatic rifle ..."
+
+27. According to the statements of the three subordinate officers, Mr Angelov and Mr Petkov were lying on the ground in front of the fence, with their legs pointing in the direction of the house from which they had come. One of them was lying on his back and the other on his stomach.
+
+28. A neighbour, Mr Z., who lived opposite Mr Angelov's grandmother, also gave evidence. At about 1 or 1.30 p.m. he had seen a military jeep pull up in front of Ms Tonkova's house. Then he had heard somebody shout: "Don't run, I am using live cartridges." He had then heard shots. He had looked into the next yard and seen Mr Angelov, whom he knew, and another man leap over the chain-link fence between Ms Tonkova's and another neighbour's yards. He had not seen the man who had shouted as he was hidden from view behind Ms Tonkova's house. Then he had seen Mr Angelov and Mr Petkov fall to the ground and the man who had shot them emerge, holding an automatic rifle. Mr Z. further stated:
+
+"The other men in uniform then started remonstrating with [the man who had shot Mr Angelov and Mr Petkov], telling him that he should not have fired, that he should not have come with them. Of those who came in the jeep, only the senior officer fired ... I know him by sight, he has relatives in Lesura."
+
+29. Sergeant S. stated that on arriving at the house he had remained with the vehicle and had heard Sergeant N. shouting from the east side of the house: "Freeze, police!" He had also heard Major G. shout "Freeze, police!" several times from the west side of the house. Then Major G. had started shooting with his automatic weapon, while continuing to shout. Sergeant S. had then entered the yard. He had seen Major G. leap over the chain- link fence and heard him shouting. He had gone up to him, had taken his automatic rifle and seen Mr Angelov and Mr Petkov lying on the ground next to the fence. They were still alive. At that moment Sergeant K. had come out of the house. Major G. had gone to get the jeep and had reported the incident over the vehicle radio. When they returned, Sergeant N. had appeared from the neighbouring street and helped them put the wounded men in the vehicle.
+
+30. The head of the Vratsa Military Police Unit and other officers were informed of the incident at around \(1.30\mathrm{p.m}\)
+
+31. Sergeant K. testified that he had entered the house and had been speaking to Mr Angelov's grandmother and another woman when he heard Major G. shouting at Mr Angelov and Mr Petkov to stop. In the house, he had noticed that a window pane in the room overlooking the yard had been broken. He had been on the verge of leaving the house when he heard shooting coming from behind the house. On his way to the yard he had met Major G., who had told him that the fugitives had been wounded. Sergeant K. had then climbed over the chain-link fence and approached the wounded men, who were still alive and moaning. He had found himself holding the automatic rifle, but could not remember how it had come into his possession. He had opened the magazine and seen no cartridges in it. There was only one cartridge left in the barrel.
+
+32. Immediately after the shooting, a number of people from the vicinity gathered. Sergeant K. and Sergeant S. took the wounded men to Vratsa Hospital, while Major G. and Sergeant N. remained at the scene.
+
+33. Mr Angelov and Mr Petkov died on the way to Vratsa. They were pronounced dead on arrival at the hospital.
+
+34. Mr Angelov's grandmother, Ms Tonkova, gave the following account of the events. Her grandson and Mr Petkov had been in her house when they had noticed a jeep approaching. She had gone outside and seen four men in uniform. They had all entered the yard. One of them had gone round the house and started shooting with an automatic rifle for a very long time. The other three men were also armed but had not fired any shots. She had been in the yard, pleading with the man who had been shooting to stop. However, he had walked towards the back of the house. Then she had heard shooting in the backyard. She had followed and then seen her grandson and Mr Petkov lying in the neighbours' yard with bullet wounds.
+
+35. According to another neighbour, Mr M.M., all three policemen were shooting. Two of them had fired shots in the air and the third officer - who had been on the west side of the house (Major G.) - had been aiming at someone. Mr M.M. had heard some fifteen to twenty shots, perhaps more. Then he had seen the military policemen go to the neighbouring yard, where Mr Angelov and Mr Petkov had fallen. That yard belonged to Mr M.M. and his daughter. On seeing his grandson - a young boy - standing there, Mr M.M. had asked Major G. for permission to approach and to take him away. Major G. had pointed his gun at him in a brutal manner and had insulted him, saying: "You damn Gypsies!" ("мамка ви цганска").
+
+36. On 19 July 1996 all the officers involved made separate reports on the incident to the Vratsa Military Police Unit. None of them was tested for alcohol.
+
+37. A criminal investigation into the deaths was opened the same day, and between 4 and \(4.30\mathrm{p.m}\) . a military investigator inspected the scene. In his report he described the scene, including the respective positions of Ms Tonkova's house, the first chain-link fence, and the spent cartridges and bloodstains found there. He indicated that the structure of the first chain-link fence was damaged and the fence had been torn down in one place.
+
+38. A sketch map was appended to the report. It showed the yard of Ms Tonkova's house and the neighbouring yard where Mr Angelov and Mr Petkov had fallen. The places where spent cartridges had been found were indicated. The sketch map and the report gave only some of the measurements of the yards. The gradient and other characteristics of the terrain and the surrounding area were not described.
+
+39. Nine spent cartridges were retrieved. One cartridge was found in the street, in front of Ms Tonkova's house (apparently not far from where the jeep had stopped). Four cartridges were discovered in Ms Tonkova's yard, behind the house, close to the first chain-link fence separating her yard from the neighbour's yard. Three cartridges were found in the yard of the neighbour (Mr M.M), close to the place where the bloodstains were found. The exact distance between those cartridges and the bloodstains was not given. A ninth cartridge was found subsequently and handed in to the military police by Mr Angelov's uncle. There is no record of where it was found.
+
+40. The bloodstains were a metre apart. They were marked on the sketch map as being slightly more than nine metres from the first chain-link fence. The distance between the bloodstains and the second fence that Mr Angelov and Mr Petkov had apparently been trying to scale when they were shot was not indicated. Samples of the bloodstains were taken by the investigator.
+
+41. On 21 July 1996, a pathologist carried out an autopsy.
+
+According to autopsy report no. 139/96, the cause of Mr Petkov's death was "a wound to the chest", the direction of the shot having been "from front to back". The wound was described as follows:
+
+"There is an oval- shaped wound of \(2.5\mathrm{cm}\) by \(1\mathrm{cm}\) in the chest, at a distance of \(144\mathrm{cm}\) from the feet, with missing tissues, and jagged and compressed edges in the area of the left shoulder. There is an oval- shaped wound of \(3\mathrm{cm}\) in the back, to the left of the infrascapular line at a distance of \(123\mathrm{cm}\) from the feet with missing tissues, jagged and torn edges turned outwards."
+
+42. As regards Mr Angelov, the report found that the cause of death had been "a gunshot wound, which [had] damaged a major blood vessel" and that the direction of the shot had been "from back to front". It was further stated:
+
+"There is a round wound on the left of the buttocks at a distance of \(90\mathrm{cm}\) from the feet ... with missing tissue, jagged walls and edges, and a diameter of about \(0.8\mathrm{cm}\) ... There is an oval wound of \(2.1\mathrm{cm}\) with jagged torn edges and walls turned outwards and missing tissues on the border between the lower and middle third [of the abdomen], at a distance of \(95\mathrm{cm}\) from the feet, slightly to the left of the navel."
+
+43. The report concluded that the injuries had been caused by an automatic rifle fired from a distance.
+
+## IV. RELEVANT INTERNATIONAL AND COMPARATIVE LAW
+
+### A. United Nations principles on the use of force
+
+71. The United Nations Basic Principles on the Use of Force and Firearms by Law Enforcement Officials were adopted on 7 September 1990 by the Eighth United Nations Congress on the Prevention of Crime and the Treatment of Offenders.
+
+72. Paragraph 9 provides:
+
+"Law enforcement officials shall not use firearms against persons except in selfdefence or defence of others against the imminent threat of death or serious injury, to prevent the perpetration of a particularly serious crime involving grave threat to life, to arrest a person presenting such a danger and resisting their authority, or to prevent his or her escape, and only when less extreme means are insufficient to achieve these objectives. In any event, intentional lethal use of firearms may only be made when strictly unavoidable in order to protect life."
+
+73. According to other provisions of the Principles, law enforcement officials shall "act in proportion to the seriousness of the offence and the legitimate objective to be achieved" (paragraph 5). Also, "Governments shall ensure that arbitrary or abusive use of force and firearms by law enforcement officials is punished as a criminal offence under their law" (paragraph 7). National rules and regulations on the use of firearms should "ensure that firearms are used only in appropriate circumstances and in a manner likely to decrease the risk of unnecessary harm".
+
+## The Law
+
+98. Mr Angelov and Mr Petkov were shot and killed by a military police officer who was trying to arrest them following their escape from detention. It follows that the case falls to be examined under Article 2 § 2 (b) of the Convention.
+
+99. The Court notes as a matter of grave concern that the relevant regulations on the use of firearms by the military police effectively permitted lethal force to be used when arresting a member of the armed forces for even the most minor offence. Not only were the regulations not published, they contained no clear safeguards to prevent the arbitrary deprivation of life. Under the regulations, it was lawful to shoot any fugitive who did not surrender immediately in response to an oral warning and the firing of a warning shot in the air (see paragraph 60 above). The laxity of the regulations on the use of firearms and the manner in which they tolerated the use of lethal force were clearly exposed by the events that led to the fatal shooting of Mr Angelov and Mr Petkov and by the investigating authorities' response to those events. The Court will revert to these matters later.
+
+100. Such a legal framework is fundamentally deficient and falls well short of the level of protection "by law" of the right to life that is required by the Convention in present-day democratic societies in Europe (see paragraphs 94-97 above setting out the principles on which the relevant legal framework must be based).
+
+101. It is true that the Supreme Court had stated that a proportionality requirement was inherent in the domestic criminal law. However, the Supreme Court's interpretation was not applied in the present case (see paragraphs 50-54 and 64 above).
+
+102. The Court thus finds that there was a general failure by the respondent State to comply with its obligation under Article 2 of the Convention to secure the right to life by putting in place an appropriate legal and administrative framework on the use of force and firearms by military police.
+
+103. The Chamber gave separate consideration to the manner in which the arrest operation had been planned. The Grand Chamber endorses the Chamber's finding that the authorities failed to comply with their obligation to minimise the risk of loss of life since the arresting officers were instructed to use all available means to arrest Mr Angelov and Mr Petkov, in disregard of the fact that the fugitives were unarmed and posed no danger to life or limb. As the Chamber rightly stated (see paragraph 110 of the Chamber judgment):
+
+"... [A] crucial element in the planning of an arrest operation ... must be the analysis of all the available information about the surrounding circumstances, including, as an absolute minimum, the nature of the offence committed by the person to be arrested and the degree of danger - if any - posed by that person. The question whether and in what circumstances recourse to firearms should be envisaged if the person to be arrested tries to escape must be decided on the basis of clear legal rules, adequate training and in the light of that information."
+
+104. The Grand Chamber for its part would again highlight the absence of a clear legal and regulatory framework defining the circumstances in which military police officers may have recourse to potentially deadly force (see paragraphs 99-102 above). It agrees with the Chamber's finding (see paragraph 112 of the Chamber judgment) that the relevant regulations
+
+"... did not make use of firearms dependent on an assessment of the surrounding circumstances, and, most importantly, did not require an evaluation of the nature of the offence committed by the fugitive and of the threat he or she posed".
+
+105. In the event, the regulations in place permitted a team of heavily armed officers to be dispatched to arrest the two men in the absence of any prior discussion of the threat, if any, they posed or of clear warnings on the need to minimise any risk to life. In short, the manner in which the operation was planned and controlled betrayed a deplorable disregard for the pre-eminence of the right to life.
+
+106. It was undisputed that Mr Angelov and Mr Petkov had served in the Construction Force, a special army institution in which conscripts discharged their duties as construction workers on non-military sites. They had been sentenced to short terms of imprisonment for non-violent offences. They had escaped without using violence, simply by leaving their place of work, which was outside the detention facility. While they had previous convictions for theft and had repeatedly been absent without leave, they had no record of violence (see paragraphs 13-15 above). Neither man was armed or represented a danger to the arresting officers or third parties, a fact of which the arresting officers must have been aware on the basis of the information available to them. In any event, upon encountering the men in the village of Lesura, the officers, or at least Major G., observed that they were unarmed and not showing any signs of threatening behaviour (see paragraphs 15-26 above).
+
+107. Having regard to the above, the Court considers that in the circumstances that obtained in the present case any resort to potentially lethal force was prohibited by Article 2 of the Convention, regardless of any risk that Mr Angelov and Mr Petkov might escape. As stated above, recourse to potentially deadly force cannot be considered as "absolutely necessary" where it is known that the person to be arrested poses no threat to life or limb and is not suspected of having committed a violent offence.
+
+108. In addition, the conduct of Major G., the military police officer who shot the victims, calls for serious criticism in that he used grossly excessive force.
+
+(i) It appears that there were other means available to effect the arrest: the officers had a jeep, the operation took place in a small village in the middle of the day and the behaviour of Mr Angelov and Mr Petkov was apparently predictable, since, following a previous escape, Mr Angelov had been found at the same address (see paragraphs 17, 18, 23 and 24 above).
+
+(ii) Major G. chose to use his automatic rifle and switched it to automatic mode although he also carried a handgun (see paragraph 26 above). He could not possibly have aimed with any reasonable degree of accuracy using automatic fire.
+
+(iii) Mr Petkov was wounded in the chest, a fact for which no plausible explanation was provided (see paragraphs 41 and 50-54 above). In the absence of such an explanation, the possibility that Mr Petkov had turned to surrender at the last minute but had nevertheless been shot cannot be excluded.
+
+109. The Court finds that the respondent State failed to comply with its obligations under Article 2 of the Convention in that the relevant legal framework on the use of force was fundamentally flawed and Mr Angelov and Mr Petkov were killed in circumstances in which the use of firearms to effect their arrest was incompatible with Article 2 of the Convention. Furthermore, grossly excessive force was used. There has therefore been a violation of Article 2 of the Convention as regards the deaths of Mr Angelov and Mr Petkov.
