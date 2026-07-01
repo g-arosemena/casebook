@@ -2,6 +2,29 @@
 
 = Chapter 1: Human Rights in International Law
 
+#block(
+  fill: blue.lighten(80%),
+  inset: 10pt,
+)[
+
+  In a certain way of conceptualizing the discipline, human rights is fundamentally a special domain of Public International Law (hereinafter PIL). In this framing, "International Human Rights Law" (IHRL) inherits the basic "rules of the game" from International Law, and for this same reason, having substantial knowledge of PIL is a prerequisite for learning IHRL. Our  main textbook seems to take this framing, devoting Chapters xx to xx to introducing various elements of Public International Law.
+
+  For the purposes of our course, perhaps the two most important "inheritances" are the law of treaties as a medium for creating IHRL, and the rules of treaty interpretation that are then used to clarify the meaning of such law. In time the student may note that the latter have given IHRL a significant degree of fluidity -perhaps too much fluidity-, as vague standards, suitably interpreted, can be extended to cover seemingly every situation, undermining the idea that states agree to something and are hold accountable to it, rather than signing a blank check. However to say at this point is to get way ahead of ourselves. Interpretation, even when creative, can be solid and unobjectionable. We can see this the General Comment 15 of the CESCR that begins this Chapter.
+
+  In this line of thought, the "inheritance" is not without modification. Human rights is a part of PIL, but it constitutes a special regime that modifies, sometimes extensively, the rules of the PIL game. For example, while traditional PIL follows a contractual logic, allowing states substantial freedom to leave agreements or to customize it to their needs, IHRL is considered to be more community oriented than contractual; it sets the moral boundaries of the so-called international community, and therefore, restricts states ability to leave human rights treaties, or to modify them inter-se if that compromises the moral stance that the treaty aims to achieve. This is something that comes out clearly in the Advisory Opinion on the Genocide Convention. This is not a rights granting convention like the ICCPR or ICESCR, but it is a human rights instrument in a broad sense, as it aims to outlaw a crime that however defined, violates the kernel of human dignity. States then are not allowed to modify their commitments like they would in a trade treaty. A trade treaty may have two states agreeing to leave certain goods out of the agreement if they so agree (for example agricultural products); it is beyond the pale however, to think that two states may choose to opt out of certain aspects of the prohibition of genocide.
+
+  The view that IHRL is fundamentally a special regime of the PIL is not one that should be uncritically accepted. It has some significant drawbacks to note:
+
+  First it creates a gap between international human rights and "constitutional human rights". The reader should note that I have put the second concept in scare quotes. As a matter of fact, within the current conceptualization, constitutional rights are typically called something else such as "civil liberties", "fundamental rights" and very often the gap is laced with acrimony: perhaps for human rights scholars civil liberties are not sufficiently progressive, while constitutional scholars see human rights as fluff of secondary importance. However its political significance, this gap has little scientific merit. Human rights and constitutional rights are functionally the same virtually everywhere. They do the same thing (protect the basic interests and freedoms of human beings), and they even cover the same ground (right to life, free speech, etc.). When they do not cover the same ground, we have options for enrichment and mutual learning that are shut down by emphasizing that "real" human rights are international.
+
+  Second, this framing betrays the reality that regional human rights courts such as the ECtHR function more as Constitutional Courts than anything else. The ECtHR must apply the ECHR, it is not granted license to directly apply other laws or instruments. Admittedly, the IACtHR has rebelled against this doctrine and applied other international rules directly, but such practice does not necessarily change the fact that according to the Pact of San Jose, the Court is bound to apply the American Convention, and not international law generally.
+
+  Third, while case law is not technically binding in PIL, and thus not in IHRL, the power of case law to bring concreteness to the vague commitments often found in human rights treatises is unmatched. The framing of IHRL as PIL does not by necessity or by principle imply turning one's back to case law, but sometimes it does so in practice, as attention is shifted towards techniques of interpretation as those found in the VCLT. Invariably, these are less enlightening than working with (many) prior cases.
+
+  One should be wary about exceptionalism about human rights; the idea that IHRL got it right, for once and for all, and that it can be its own self-contained, self-interpreting sphere, disconnected from the sometimes startling, local realities. There is also a loss of power here. Where one does not connect with local traditions, one loses the traction that rules need to be weighty in real life. I personally prefer to think that the international and the local must always be in dialogue, and thus would like to resist the idea that IHRL is fundamentally and exclusively international human rights.
+
+]
+
 == COMMITTEE ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS Twenty-ninth session Geneva, 11-29 November 2002 Agenda item 3, Original: ENGLISH, E/ C.12/2002/11 20 January 2003, General Comment No.~15 (2002)
 
 === SUBSTANTIVE ISSUES ARISING IN THE IMPLEMENTATION OF THE INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS
@@ -10,7 +33,6 @@
 === The right to water (arts. 11 and 12 of the International Covenant on Economic, Social and Cultural Rights)
 <the-right-to-water-arts.-11-and-12-of-the-international-covenant-on-economic-social-and-cultural-rights>
 
-#strong(here is bold text)
 
 === I. INTRODUCTION
 <i.-introduction>
