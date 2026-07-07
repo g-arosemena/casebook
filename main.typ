@@ -20,14 +20,14 @@
 
 
 // Include your chapters
-#include "Chapters/Chapter_1.typst"
+#include "Chapters/Chapter_1.typ"
 
-#include "Chapters/Chapter_2.typst"
+#include "Chapters/Chapter_2.typ"
 
-#include "Chapters/Chapter_3.typst"
+#include "Chapters/Chapter_3.typ"
 
-#include "Chapters/Chapter_4.typst"
+#include "Chapters/Chapter_4.typ"
 
-#include "Chapters/Chapter_5.typst"
+#include "Chapters/Chapter_5.typ"
 
-#include "Chapters/Chapter_6.typst"
+#include "Chapters/Chapter_6.typ"
