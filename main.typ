@@ -20,6 +20,10 @@
 
 
 // Include your chapters
+//
+//
+#include "Chapters/On_naming_conventions.typ"
+
 #include "Chapters/Chapter_1.typ"
 
 #include "Chapters/Chapter_2.typ"
@@ -31,3 +35,5 @@
 #include "Chapters/Chapter_5.typ"
 
 #include "Chapters/Chapter_6.typ"
+
+#include "Chapters/Bibliography.typ"

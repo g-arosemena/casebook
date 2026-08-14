@@ -3,7 +3,6 @@
 = Chapter 1: Human Rights in International Law
 
 
-
 In a certain way of conceptualizing the discipline, human rights is fundamentally a special domain of Public International Law (hereinafter PIL). In this framing, "International Human Rights Law" (IHRL) inherits the basic "rules of the game" from International Law, and for this same reason, having substantial knowledge of PIL is a prerequisite for learning IHRL. Our  main textbook seems to take this framing, devoting Chapters xx to xx to introducing various elements of Public International Law.
 
 For the purposes of our course, perhaps the two most important "inheritances" are the law of treaties as a medium for creating IHRL, and the rules of treaty interpretation that are then used to clarify the meaning of such law. In time the student may note that the latter have given IHRL a significant degree of fluidity -perhaps too much fluidity-, as vague standards, suitably interpreted, can be extended to cover seemingly every situation, undermining the idea that states agree to something and are hold accountable to it, rather than signing a blank check. However to say at this point is to get way ahead of ourselves. Interpretation, even when creative, can be solid and unobjectionable. We can see this the General Comment 15 of the CESCR that begins this Chapter.
@@ -25,17 +24,16 @@ One should be wary about exceptionalism about human rights; the idea that IHRL g
   inset: 10pt,
 )[
 
-  == COMMITTEE ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS Twenty-ninth session Geneva, 11-29 November 2002 Agenda item 3, Original: ENGLISH, E/ C.12/2002/11 20 January 2003, General Comment No.~15 (2002)
+  #heading(level: 2, outlined: true)[Committee on Economic, Social and Cultural Rights, General Comment No.~15 (2002)]
 
-  === SUBSTANTIVE ISSUES ARISING IN THE IMPLEMENTATION OF THE INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS
-  <substantive-issues-arising-in-the-implementation-of-the-international-covenant-on-economic-social-and-cultural-rights>
+  COMMITTEE ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS Twenty-ninth session Geneva, 11-29 November 2002 Agenda item 3, Original: ENGLISH, E/ C.12/2002/11 20 January 2003, General Comment No.~15 (2002)
 
-  === The right to water (arts. 11 and 12 of the International Covenant on Economic, Social and Cultural Rights)
-  <the-right-to-water-arts.-11-and-12-of-the-international-covenant-on-economic-social-and-cultural-rights>
+  SUBSTANTIVE ISSUES ARISING IN THE IMPLEMENTATION OF THE INTERNATIONAL COVENANT ON ECONOMIC, SOCIAL AND CULTURAL RIGHTS
 
+  The right to water (arts. 11 and 12 of the International Covenant on Economic, Social and Cultural Rights)
 
-  === I. INTRODUCTION
-  <no-toc>
+  #heading(level: 4, outlined: false)[I. INTRODUCTION]
+
   + Water is a limited natural resource and a public good fundamental for
     life and health. The human right to water is indispensable for leading
     a life in human dignity. It is a prerequisite for the realization of
@@ -100,8 +98,8 @@ One should be wary about exceptionalism about human rights; the idea that IHRL g
     disease, as well as water required to meet the core obligations of
     each of the Covenant rights.
 
-  === Water and Covenant rights
-  <water-and-covenant-rights>
+  #heading(level: 4, outlined: false)[Water and Covenant rights]
+
   #block[
     #set enum(numbering: "1.", start: 7)
     + The Committee notes the importance of ensuring sustainable access to
@@ -143,8 +141,11 @@ One should be wary about exceptionalism about human rights; the idea that IHRL g
   inset: 10pt,
 )[
 
-  == RESERVATIONS TO THE CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF GENOCIDE
-  <reservations-to-the-convention-on-the-prevention-and-punishment-of-the-crime-of-genocide>
+  #heading(
+    level: 2,
+    outlined: true,
+  )[RESERVATIONS TO THE CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF GENOCIDE]
+
   Advisory Opinion of 28 May 1951
 
   The question concerning reservations to the Convention on the Prevention

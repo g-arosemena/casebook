@@ -19,7 +19,12 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
   inset: 10pt,
 )[
 
-  == THE FACTS
+  #heading(level: 2, outlined: true)[PETA Deutschland vs. Germany]
+
+  CASE OF PETA DEUTSCHLAND v. GERMANY
+  (Application no. 43481/09)
+
+  #heading(level: 4, outlined: false)[THE FACTS]
   <the-facts>
   #block[
     #set enum(numbering: "1.", start: 6)
@@ -117,8 +122,8 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
       formed part of their dignity.
   ]
 
-  == THE LAW
-  <the-law>
+  #heading(level: 4, outlined: false)[THE LAW]
+
   #block[
     #set enum(numbering: "1.", start: 27)
     + The applicant association submitted, in particular, that the impugned
@@ -383,7 +388,11 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
   inset: 10pt,
 )[
 
-  == THE FACTS
+  #heading(level: 2, outlined: true)[Case of Lindholm and the Estate after Leif Lindholm v. Denmark]
+
+  (Application no. 25636/22)
+
+  #heading(level: 4, outlined: false)[THE FACTS]
   <the-facts>
   #block[
     #set enum(numbering: "1.", start: 6)
@@ -715,10 +724,9 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
     and 9.
   ]
 
-  == THE LAW
-  <the-law>
-  === ALLEGED VIOLATION OF ARTICLES 8 AND 9 OF THE CONVENTION
-  <alleged-violation-of-articles-8-and-9-of-the-convention>
+  #heading(level: 4, outlined: false)[THE LAW]
+
+  #heading(level: 5, outlined: false)[ALLEGED VIOLATION OF ARTICLES 8 AND 9 OF THE CONVENTION]
   #block[
     #set enum(numbering: "1.", start: 55)
     + The applicants complained that the Supreme Court judgment of 1
@@ -823,8 +831,8 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
       in an arbitrary or manifestly unreasonable way.
   ]
 
-  ==== (ii) Aim of the interference
-  <ii-aim-of-the-interference>
+  #strong[(ii) Aim of the interference]
+
   #block[
     #set enum(numbering: "1.", start: 82)
     + The first applicant argued that both the blood transfusion
@@ -852,10 +860,9 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
       protection of health" (see Pindo Mulla, cited above, §§ 135-36).
   ]
 
-  ==== (iii) Necessity of the interference
-  <iii-necessity-of-the-interference>
-  ===== (α) Non-binding effect of advance medical directives
-  <α-non-binding-effect-of-advance-medical-directives>
+  #strong[(iii) Necessity of the interference]
+
+  #strong[(α) Non-binding effect of advance medical directives]
   #block[
     #set enum(numbering: "1.", start: 85)
     + The Court recently examined the issue of the "previously expressed
@@ -876,8 +883,7 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
       2012 (see paragraph 11 above).
   ]
 
-  ===== - The legislative and policy framework
-  <the-legislative-and-policy-framework>
+  #strong[- The legislative and policy framework]
   #block[
     #set enum(numbering: "1.", start: 87)
     + As pointed out by the Supreme Court and the Government (see paragraphs
@@ -928,8 +934,7 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
       patient's right to autonomy.
   ]
 
-  ===== - L's individual case
-  <ls-individual-case>
+  #strong[- L's individual case]
   #block[
     #set enum(numbering: "1.", start: 90)
     + As already stated, (see paragraph 75 above), following the accident on
@@ -991,8 +996,8 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
       save L's life (see paragraph 22 above).
   ]
 
-  ===== Overall conclusion
-  <overall-conclusion>
+  #strong[Overall conclusion]
+
   #block[
     #set enum(numbering: "1.", start: 100)
     + In the light of all the above-mentioned considerations, the Court

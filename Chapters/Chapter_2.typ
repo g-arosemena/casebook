@@ -24,16 +24,18 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
   inset: 10pt,
 )[
 
-  = ECHR, CASE OF NACHOVA AND OTHERS v. BULGARIA
-  <echr-case-of-nachova-and-others-v.-bulgaria>
+  #heading(level: 2, outlined: true)[ECHR, CASE OF NACHOVA AND OTHERS v. BULGARIA]
+
+
+  CASE OF NACHOVA AND OTHERS v. BULGARIA
   (Applications nos. 43577/98 and 43579/98)
 
   6 July 2005
 
   Summary
 
-  == The Facts
-  <the-facts>
+  #heading(level: 4, outlined: false)[The Facts]
+
   #block[
     #set enum(numbering: "1.", start: 13)
     + In 1996 Mr Angelov and Mr Petkov, who were both 21 years old, were
@@ -319,10 +321,10 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
       rifle fired from a distance.
   ]
 
-  == IV. RELEVANT INTERNATIONAL AND COMPARATIVE LAW
-  <iv.-relevant-international-and-comparative-law>
-  === A. United Nations principles on the use of force
-  <a.-united-nations-principles-on-the-use-of-force>
+  #heading(level: 5, outlined: false)[IV. RELEVANT INTERNATIONAL AND COMPARATIVE LAW]
+
+  A. United Nations principles on the use of force
+
   #block[
     #set enum(numbering: "1.", start: 71)
     + The United Nations Basic Principles on the Use of Force and Firearms
@@ -355,8 +357,7 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
       of unnecessary harm".
   ]
 
-  == The Law
-  <the-law>
+  #heading(level: 4, outlined: false)[The Law]
   #block[
     #set enum(numbering: "1.", start: 98)
     + Mr Angelov and Mr Petkov were shot and killed by a military police
@@ -509,12 +510,16 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
   inset: 10pt,
 )[
 
-  = Inter-American Court of Human Rights, Case of Hilaire, Constantine and Benjamin et al.~v. Trinidad and Tobago
-  <inter-american-court-of-human-rights-case-of-hilaire-constantine-and-benjamin-et-al.-v.-trinidad-and-tobago>
+  #heading(
+    level: 2,
+    outlined: true,
+  )[Inter-American Court of Human Rights, Case of Hilaire, Constantine and Benjamin et al.~v. Trinidad and Tobago]
+
+  Inter-American Court of Human Rights, Case of Hilaire, Constantine and Benjamin et al.~v. Trinidad and Tobago
   Judgment of June 21, 2002 (Merits, Reparations and Costs)
 
-  == Facts
-  <facts>
+  #heading(level: 4, outlined: false)[Facts]
+
   #block[
     #set enum(numbering: "1.", start: 84)
     + The Court now proceeds to consider the relevant facts that it deems to
@@ -570,8 +575,11 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
       discretionary pardon.96
   ]
 
-  == IX VIOLATION OF ARTICLE 4(1) and 4(2), IN RELATION TO ARTICLES 1(1) AND 2 OF THE AMERICAN CONVENTION (Mandatory Death Penalty)
-  <ix-violation-of-article-41-and-42-in-relation-to-articles-11-and-2-of-the-american-convention-mandatory-death-penalty>
+  #heading(
+    level: 4,
+    outlined: false,
+  )[IX VIOLATION OF ARTICLE 4(1) and 4(2), IN RELATION TO ARTICLES 1(1) AND 2 OF THE AMERICAN CONVENTION (Mandatory Death Penalty)]
+
   #block[
     #set enum(numbering: "1.", start: 88)
     + The Commission added that the use of the "mandatory death penalty" by
