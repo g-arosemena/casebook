@@ -24,7 +24,7 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
   inset: 10pt,
 )[
 
-  #heading(level: 2, outlined: true)[ECHR, CASE OF NACHOVA AND OTHERS v. BULGARIA]
+  #heading(level: 2, outlined: true)[ECHR, Case of Nachova and others v. Bulgaria]
 
 
   CASE OF NACHOVA AND OTHERS v. BULGARIA

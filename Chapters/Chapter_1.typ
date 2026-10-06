@@ -144,7 +144,7 @@ One should be wary about exceptionalism about human rights; the idea that IHRL g
   #heading(
     level: 2,
     outlined: true,
-  )[RESERVATIONS TO THE CONVENTION ON THE PREVENTION AND PUNISHMENT OF THE CRIME OF GENOCIDE]
+  )[Reservations to the Convention on the Prevention and Punishment of the Crime of Genocide]
 
   Advisory Opinion of 28 May 1951
 

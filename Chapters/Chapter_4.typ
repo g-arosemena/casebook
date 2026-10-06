@@ -6,14 +6,15 @@
   inset: 10pt,
 )[
 
-  = Inter-American Court of Human Rights
-  <inter-american-court-of-human-rights>
-  = Case of Lori Berenson-Mejía v. Peru
+#heading(level: 2, outlined: true)[IACtHR, Case of Lori Berenson-Mejía v. Peru]
+
+  Inter-American Court of Human Rights
+  Case of Lori Berenson-Mejía v. Peru
   <case-of-lori-berenson-mejía-v.-peru>
   Judgment of November 25, 2004 (Merits, Reparations and Costs)
 
-  == Facts
-  <facts>
+  #heading(level: 4, outlined: false)[Facts]
+
   88(1) From 1980 to 1994 Peru experienced serious social upheaval as a
   result of terrorist acts.25
 
@@ -244,10 +245,11 @@
   YEARS' IMPRISONMENT \[…\]"195 (The highlighting appears in the
   original).
 
-  == The Court's finding
-  <the-courts-finding>
-  === ARTICLE 9 OF THE AMERICAN CONVENTION IN RELATION TO ARTICLE 1(1) THEREOF (FREEDOM FROM EX POST FACTO LAWS)
-  <article-9-of-the-american-convention-in-relation-to-article-11-thereof-freedom-from-ex-post-facto-laws>
+  #heading(level: 4, outlined: false)[The Court's finding]
+
+
+  #strong()[ARTICLE 9 OF THE AMERICAN CONVENTION IN RELATION TO ARTICLE 1(1) THEREOF (FREEDOM FROM EX POST FACTO LAWS)]
+
   The relevant Peruvian legislation in this case establishes different
   categories of crime, such as: terrorism,230 treason,231 and
   collaboration with terrorism.232 In turn, the latter has various
@@ -269,12 +271,12 @@
   crime are incompatible with the provisions of Article 9 of the American
   Convention.
 
-  === ARTICLE 8 OF THE AMERICAN CONVENTION IN RELATION TO ARTICLE 1(1) THEREOF (RIGHT TO A FAIR TRIAL)
-  <article-8-of-the-american-convention-in-relation-to-article-11-thereof-right-to-a-fair-trial>
-  ==== A. A competent, independent and impartial judge
-  <a.-a-competent-independent-and-impartial-judge>
-  ===== a) Criminal proceeding in the military jurisdiction
-  <a-criminal-proceeding-in-the-military-jurisdiction>
+  #strong()[ARTICLE 8 OF THE AMERICAN CONVENTION IN RELATION TO ARTICLE 1(1) THEREOF (RIGHT TO A FAIR TRIAL)]
+
+  #strong()[A. A competent, independent and impartial judge]
+
+ a) Criminal proceeding in the military jurisdiction
+
   Article 173 of the 1993 Constitution of Peru established that:
 
   In cases of crimes committed in the course of duty, members of the Armed
@@ -377,10 +379,10 @@
   the alleged victim in the military jurisdiction for the crime of
   treason.
 
-  === B. Presumption of innocence
-  <b.-presumption-of-innocence>
-  ==== a) Criminal proceeding in the military jurisdiction
-  <a-criminal-proceeding-in-the-military-jurisdiction-1>
+  #strong()[B. Presumption of innocence]
+
+  a) Criminal proceeding in the military jurisdiction
+
   During the military proceeding, DINCOTE exhibited Lori Berenson before
   the media as the perpetrator of the crime of treason, when she had not
   been duly prosecuted and convicted (supra para. 88(28)).
@@ -409,8 +411,8 @@
   detriment of Lori Berenson, in the criminal proceeding in the military
   jurisdiction.
 
-  ==== b) Criminal proceeding in the ordinary jurisdiction
-  <b-criminal-proceeding-in-the-ordinary-jurisdiction>
+  b) Criminal proceeding in the ordinary jurisdiction
+
   The alleged victim's representatives stated that, during the processing
   of the civil trial, the right to presumption of innocence had not been
   respected (supra paras. 130(2)(d))
@@ -426,15 +428,15 @@
   alleged victim in relation to the trial against her in the ordinary
   jurisdiction
 
-  === C. Public proceeding
-  <c.-public-proceeding>
+  #strong()[C. Public proceeding]
+
   Article 8(5) of the Convention establishes that:
 
   Criminal proceedings shall be public, except insofar as may be necessary
   to protect the interests of justice.
 
-  ==== a) Criminal proceeding in the military jurisdiction
-  <a-criminal-proceeding-in-the-military-jurisdiction-2>
+  a) Criminal proceeding in the military jurisdiction
+
   The Court considers that it has been proved that military trials of
   civilians who had allegedly committed crimes of treason were held with
   "faceless" judges and prosecutors, and were subject to restrictions

@@ -5,9 +5,10 @@
   fill: blue.lighten(80%),
   inset: 10pt,
 )[
+#heading(level: 2, outlined: true)[ECHR, Case of Bankovich vs. Belgium and Others]
 
-  == Facts
-  <facts>
+#heading(level: 4, outlined: false)[Facts]
+
   #block[
     #set enum(numbering: "1.", start: 6)
     + The conflict in Kosovo between Serbian and Kosovar Albanian forces
@@ -34,8 +35,8 @@
       strikes lasted from 24 March to 8 June 1999.
   ]
 
-  === 2. The bombing of Radio Televizije Srbije ("RTS")
-  <the-bombing-of-radio-televizije-srbije-rts>
+  #strong()[2. The bombing of Radio Televizije Srbije ("RTS")]
+
   #block[
     #set enum(numbering: "1.", start: 9)
     + Three television channels and four radio stations operated from the
@@ -57,8 +58,8 @@
       three in Belgrade.
   ]
 
-  == COMPLAINTS
-  <complaints>
+  #heading(level: 4, outlined: false)[COMPLAINTS]
+
   #block[
     #set enum(numbering: "1.", start: 28)
     + The applicants complain about the bombing of the RTS building on 23
@@ -108,8 +109,8 @@
       those States as required by Article 35 § 1 of the Convention.
   ]
 
-  === A. Whether the applicants and their deceased relatives came within the "jurisdiction" of the respondent States within the meaning of Article 1 of the Convention
-  <a.-whether-the-applicants-and-their-deceased-relatives-came-within-the-jurisdiction-of-the-respondent-states-within-the-meaning-of-article-1-of-the-convention>
+  #strong()[A. Whether the applicants and their deceased relatives came within the "jurisdiction" of the respondent States within the meaning of Article 1 of the Convention]
+
   #block[
     #set enum(numbering: "1.", start: 34)
     + This is the principal basis upon which the Governments contest the
@@ -121,8 +122,8 @@
   jurisdiction the rights and freedoms defined in Section I of \[the\]
   Convention."
 
-  ==== 1. The submissions of the respondent Governments
-  <the-submissions-of-the-respondent-governments>
+  1. The submissions of the respondent Governments
+
   #block[
     #set enum(numbering: "1.", start: 35)
     + The Governments contend that the applicants and their deceased
@@ -217,8 +218,8 @@
       ("ICC") exist to regulate such State conduct.
   ]
 
-  ==== 2. The submissions of the applicants
-  <the-submissions-of-the-applicants>
+  2. The submissions of the applicants
+
   #block[
     #set enum(numbering: "1.", start: 46)
     + The applicants consider the application to be compatible ratione loci
@@ -292,8 +293,8 @@
       same reasons it was in the Soering case.
   ]
 
-  ==== 3. The Court's assessment
-  <the-courts-assessment>
+  3. The Court's assessment
+
   #block[
     #set enum(numbering: "1.", start: 54)
     + The Court notes that the real connection between the applicants and
@@ -309,8 +310,8 @@
       and the Cyprus v. Turkey judgment, cited above, at § 80).
   ]
 
-  ===== (a) The applicable rules of interpretation
-  <a-the-applicable-rules-of-interpretation>
+  (a) The applicable rules of interpretation
+
   #block[
     #set enum(numbering: "1.", start: 55)
     + The Court recalls that the Convention must be interpreted in the light
@@ -340,8 +341,8 @@
       ILC commentary is set out above at §§ 16-18 above).
   ]
 
-  ===== (b) The meaning of the words "within their jurisdiction"
-  <b-the-meaning-of-the-words-within-their-jurisdiction>
+  (b) The meaning of the words "within their jurisdiction"
+
   #block[
     #set enum(numbering: "1.", start: 59)
     + As to the "ordinary meaning" of the relevant term in Article 1 of the
@@ -423,8 +424,8 @@
   Parties to it, nor does it purport to be a means of requiring the
   Contracting States to impose Convention standards on other States."
 
-  ===== (c) Extra-territorial acts recognised as constituting an exercise of jurisdiction
-  <c-extra-territorial-acts-recognised-as-constituting-an-exercise-of-jurisdiction>
+  (c) Extra-territorial acts recognised as constituting an exercise of jurisdiction
+
   #block[
     #set enum(numbering: "1.", start: 70)
     + Moreover, in that first Loizidou judgment (preliminary objections),
@@ -482,8 +483,8 @@
       Court said:
   ]
 
-  ===== (d) Were the present applicants therefore capable of coming within the "jurisdiction" of the respondent States?
-  <d-were-the-present-applicants-therefore-capable-of-coming-within-the-jurisdiction-of-the-respondent-states>
+  (d) Were the present applicants therefore capable of coming within the "jurisdiction" of the respondent States?
+
   #block[
     #set enum(numbering: "1.", start: 74)
     + The applicants maintain that the bombing of RTS by the respondent
@@ -593,8 +594,8 @@
       the Convention.
   ]
 
-  ==== 4. The Court's conclusion
-  <the-courts-conclusion>
+  #strong()[4. The Court's conclusion]
+
   #block[
     #set enum(numbering: "1.", start: 82)
     + The Court is not therefore persuaded that there was any jurisdictional

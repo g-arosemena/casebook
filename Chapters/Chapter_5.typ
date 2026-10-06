@@ -5,11 +5,12 @@
   fill: blue.lighten(80%),
   inset: 10pt,
 )[
+#heading(level: 2, outlined: true)[ECHR, Case of Eweida and Others vs. the United Kingdom]
 
-  == THE FACTS
-  <the-facts>
-  === Eweida
-  <eweida>
+#heading(level: 4, outlined: false)[THE FACTS]
+
+  #strong()[Eweida]
+
   #block[
     #set enum(numbering: "1.", start: 9)
     + The first applicant, who spent the first eighteen years of her life in
@@ -68,9 +69,8 @@
       administrative work without customer contact, which would not have
       required her to wear a uniform, but she rejected this offer.
   ]
+  #strong()[Chaplin]
 
-  === Chaplin
-  <chaplin>
   #block[
     #set enum(numbering: "1.", start: 18)
     + The second applicant is also a practising Christian. She has worn a
@@ -145,8 +145,8 @@
       Chaplin's request to wear the crucifix visibly had been proportionate.
   ]
 
-  === Ladele
-  <ladele>
+  #strong()[Ladele]
+
   #block[
     #set enum(numbering: "1.", start: 23)
     + The third applicant is a Christian. She holds the view that marriage
@@ -243,8 +243,9 @@
       judgment.\]
   ]
 
-  === McFarlane
-  <mcfarlane>
+  #strong()[McFarlane]
+
+
   #block[
     #set enum(numbering: "1.", start: 31)
     + The fourth applicant is a practising Christian, and was formerly an
@@ -368,8 +369,8 @@
       in Mr McFarlane to comply with the relevant policies was justified.
   ]
 
-  == The Law
-  <the-law>
+  #heading(level: 4, outlined: false)[The Law]
+
   #block[
     #set enum(numbering: "1.", start: 85)
     + The Court recalls that Article 14 of the Convention has no independent
@@ -417,8 +418,8 @@
       61).
   ]
 
-  === Eweida
-  <eweida-1>
+  #strong()[Eweida]
+
   #block[
     #set enum(numbering: "1.", start: 89)
     + It was not disputed in the proceedings before the domestic tribunals
@@ -526,8 +527,8 @@
       complaint under Article 14 taken in conjunction with Article 9.
   ]
 
-  === Chaplin
-  <chaplin-1>
+  #strong()[Chaplin]
+
   #block[
     #set enum(numbering: "1.", start: 96)
     + Ms Chaplin is also a practising Christian, who has worn a cross on a
@@ -602,8 +603,8 @@
       this case.
   ]
 
-  === Ladele
-  <ladele-1>
+  #strong()[Ladele]
+
   #block[
     #set enum(numbering: "1.", start: 102)
     + The Court notes that the third applicant is a Christian, who holds the
@@ -681,8 +682,8 @@
       Article 9 in respect of the third applicant.
   ]
 
-  === McFarlane
-  <mcfarlane-1>
+  #strong()[McFarlane]
+
   #block[
     #set enum(numbering: "1.", start: 107)
     + Mr McFarlane's principal complaint was under Article 9 of the
@@ -741,18 +742,20 @@
   inset: 10pt,
 )[
 
-  == THE FACTS
-  <the-facts>
-  === I. THE CIRCUMSTANCES OF THE CASE
-  <i.-the-circumstances-of-the-case>
+  #heading(level: 2, outlined: true)[ECHR, Case of DH vs. the Czech Republic]
+
+  #heading(level: 4, outlined: false)[THE FACTS]
+
+  #strong()[I. THE CIRCUMSTANCES OF THE CASE]
+
   #block[
     #set enum(numbering: "1.", start: 11)
     + Details of the applicants' names and places of residence are set out
       in the Annex.
   ]
 
-  ==== A. Historical background
-  <a.-historical-background>
+  #strong()[A. Historical background]
+
   #block[
     #set enum(numbering: "1.", start: 12)
     + According to documents available on the website of the Roma and
@@ -793,8 +796,8 @@
   Republic, the Roma community now numbers between 150,000 and 300,000
   people.
 
-  ==== B. Special schools
-  <b.-special-schools>
+  #strong()[B. Special schools]
+
   #block[
     #set enum(numbering: "1.", start: 15)
     + According to information supplied by the Czech Government, the special
@@ -869,8 +872,8 @@
   schools; the other countries concerned almost exclusively used ordinary
   schools for the education of such children.
 
-  ==== C. The facts of the instant case
-  <c.-the-facts-of-the-instant-case>
+  #strong()[C. The facts of the instant case]
+
   #block[
     #set enum(numbering: "1.", start: 19)
     + Between 1996 and 1999 the applicants were placed in special schools in
@@ -913,8 +916,8 @@
       authorities from their parents.
   ]
 
-  == III. ALLEGED VIOLATION OF ARTICLE 14 OF THE CONVENTION TAKEN IN CONJUNCTION WITH ARTICLE 2 OF PROTOCOL No.~1
-  <iii.-alleged-violation-of-article-14-of-the-convention-taken-in-conjunction-with-article-2-of-protocol-no.-1>
+  #heading(level: 4, outlined: false)[III. ALLEGED VIOLATION OF ARTICLE 14 OF THE CONVENTION TAKEN IN CONJUNCTION WITH ARTICLE 2 OF PROTOCOL No.~1]
+
   #block[
     #set enum(numbering: "1.", start: 124)
     + The applicants maintained that they had been discriminated against in
@@ -941,8 +944,8 @@
   and teaching in conformity with their own religious and philosophical
   convictions."
 
-  === A. The Chamber judgment
-  <a.-the-chamber-judgment>
+  #strong()[A. The Chamber judgment]
+
   #block[
     #set enum(numbering: "1.", start: 125)
     + The Chamber held that there had been no violation of Article 14 of the
@@ -976,10 +979,10 @@
       special schools was the result of racial prejudice.
   ]
 
-  === B. The parties' submissions
-  <b.-the-parties-submissions>
-  ==== 1. The applicants
-  <the-applicants>
+  #strong()[B. The parties' submissions]
+
+  1. The applicants
+
   #block[
     #set enum(numbering: "1.", start: 128)
     + The applicants submitted that the restrictive interpretation the
@@ -1090,8 +1093,8 @@
       good verbal communication skills.
   ]
 
-  ==== 2. The Government
-  <the-government>
+  #strong()[2. The Government]
+
   #block[
     #set enum(numbering: "1.", start: 146)
     + The Government stated that the case raised complex issues concerning
@@ -1190,10 +1193,10 @@
       population suffered from.
   ]
 
-  === C. The Court's assessment
-  <c.-the-courts-assessment>
-  ==== 1. Recapitulation of the main principles
-  <recapitulation-of-the-main-principles>
+  #strong()[C. The Court's assessment]
+
+  1. Recapitulation of the main principles
+
   #block[
     #set enum(numbering: "1.", start: 175)
     + The Court has established in its case-law that discrimination means
@@ -1316,8 +1319,8 @@
   interests of the minorities themselves but to preserve a cultural
   diversity of value to the whole community.
 
-  ==== 2. Application of the above-mentioned principles to the instant case
-  <application-of-the-above-mentioned-principles-to-the-instant-case>
+  2. Application of the above-mentioned principles to the instant case
+
   #block[
     #set enum(numbering: "1.", start: 182)
     + The Court notes that as a result of their turbulent history and
