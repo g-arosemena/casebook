@@ -696,4 +696,109 @@ It may be proposed that if anything, this dignitarian dimension seems to always 
       and Francis Mansingh.
   ]
 ]
+
+
+#block(
+  fill: blue.lighten(80%),
+  inset: 10pt,
+)[
+
+== Basic Principles on the Use of Force and Firearms by Law Enforcement Officials
+
+Adopted by the Eighth United Nations Congress on the Prevention of Crime and the Treatment of Offenders, Havana, Cuba, 27 August to 7 September 1990.
+
+Whereas the work of law enforcement officials#footnote[In accordance with the commentary to article 1 of the Code of Conduct for Law Enforcement Officials, the term "law enforcement officials" includes all officers of the law, whether appointed or elected, who exercise police powers, especially the powers of arrest or detention. In countries where police powers are exercised by military authorities, whether uniformed or not, or by State security forces, the definition of law enforcement officials shall be regarded as including officers of such services.] is a social service of great importance and there is, therefore, a need to maintain and, whenever necessary, to improve the working conditions and status of these officials,
+
+Whereas a threat to the life and safety of law enforcement officials must be seen as a threat to the stability of society as a whole,
+
+Whereas law enforcement officials have a vital role in the protection of the right to life, liberty and security of the person, as guaranteed in the Universal Declaration of Human Rights and reaffirmed in the International Covenant on Civil and Political Rights,
+
+Whereas the Standard Minimum Rules for the Treatment of Prisoners provide for the circumstances in which prison officials may use force in the course of their duties,
+
+Whereas article 3 of the Code of Conduct for Law Enforcement Officials provides that law enforcement officials may use force only when strictly necessary and to the extent required for the performance of their duty,
+
+Whereas the preparatory meeting for the Seventh United Nations Congress on the Prevention of Crime and the Treatment of Offenders, held at Varenna, Italy, agreed on elements to be considered in the course of further work on restraints on the use of force and firearms by law enforcement officials,
+
+Whereas the Seventh Congress, in its resolution 14, inter alia, emphasizes that the use of force and firearms by law enforcement officials should be commensurate with due respect for human rights,
+
+Whereas the Economic and Social Council, in its resolution 1986/10, section IX, of 21 May 1986, invited Member States to pay particular attention in the implementation of the Code to the use of force and firearms by law enforcement officials, and the General Assembly, in its resolution 41/149 of 4 December 1986, inter alia, welcomed this recommendation made by the Council,
+
+Whereas it is appropriate that, with due regard to their personal safety, consideration be given to the role of law enforcement officials in relation to the administration of justice, to the protection of the right to life, liberty and security of the person, to their responsibility to maintain public safety and social peace and to the importance of their qualifications, training and conduct,
+
+The basic principles set forth below, which have been formulated to assist Member States in their task of ensuring and promoting the proper role of law enforcement officials, should be taken into account and respected by Governments within the framework of their national legislation and practice, and be brought to the attention of law enforcement officials as well as other persons, such as judges, prosecutors, lawyers, members of the executive branch and the legislature, and the public.
+
+==== General provisions
+
+1. Governments and law enforcement agencies shall adopt and implement rules and regulations on the use of force and firearms against persons by law enforcement officials. In developing such rules and regulations, Governments and law enforcement agencies shall keep the ethical issues associated with the use of force and firearms constantly under review.
+
+2. Governments and law enforcement agencies should develop a range of means as broad as possible and equip law enforcement officials with various types of weapons and ammunition that would allow for a differentiated use of force and firearms. These should include the development of non-lethal incapacitating weapons for use in appropriate situations, with a view to increasingly restraining the application of means capable of causing death or injury to persons. For the same purpose, it should also be possible for law enforcement officials to be equipped with self-defensive equipment such as shields, helmets, bullet-proof vests and bullet-proof means of transportation, in order to decrease the need to use weapons of any kind.
+
+3. The development and deployment of non-lethal incapacitating weapons should be carefully evaluated in order to minimize the risk of endangering uninvolved persons, and the use of such weapons should be carefully controlled.
+
+4. Law enforcement officials, in carrying out their duty, shall, as far as possible, apply non-violent means before resorting to the use of force and firearms. They may use force and firearms only if other means remain ineffective or without any promise of achieving the intended result.
+
+5. Whenever the lawful use of force and firearms is unavoidable, law enforcement officials shall:
+
++ Exercise restraint in such use and act in proportion to the seriousness of the offence and the legitimate objective to be achieved;
+
++ Minimize damage and injury, and respect and preserve human life;
+
++ Ensure that assistance and medical aid are rendered to any injured or affected persons at the earliest possible moment;
+
++ Ensure that relatives or close friends of the injured or affected person are notified at the earliest possible moment.
+
+6. Where injury or death is caused by the use of force and firearms by law enforcement officials, they shall report the incident promptly to their superiors, in accordance with principle 22.
+
+7. Governments shall ensure that arbitrary or abusive use of force and firearms by law enforcement officials is punished as a criminal offence under their law.
+
+8. Exceptional circumstances such as internal political instability or any other public emergency may not be invoked to justify any departure from these basic principles.
+
+==== Special provisions
+
+9. Law enforcement officials shall not use firearms against persons except in self-defence or defence of others against the imminent threat of death or serious injury, to prevent the perpetration of a particularly serious crime involving grave threat to life, to arrest a person presenting such a danger and resisting their authority, or to prevent his or her escape, and only when less extreme means are insufficient to achieve these objectives. In any event, intentional lethal use of firearms may only be made when strictly unavoidable in order to protect life.
+
+10. In the circumstances provided for under principle 9, law enforcement officials shall identify themselves as such and give a clear warning of their intent to use firearms, with sufficient time for the warning to be observed, unless to do so would unduly place the law enforcement officials at risk or would create a risk of death or serious harm to other persons, or would be clearly inappropriate or pointless in the circumstances of the incident.
+
+11. Rules and regulations on the use of firearms by law enforcement officials should include guidelines that:
+
++ Specify the circumstances under which law enforcement officials are authorized to carry firearms and prescribe the types of firearms and ammunition permitted;
+
++ Ensure that firearms are used only in appropriate circumstances and in a manner likely to decrease the risk of unnecessary harm;
+
++ Prohibit the use of those firearms and ammunition that cause unwarranted injury or present an unwarranted risk;
+
++ Regulate the control, storage and issuing of firearms, including procedures for ensuring that law enforcement officials are accountable for the firearms and ammunition issued to them;
+
++ Provide for warnings to be given, if appropriate, when firearms are to be discharged;
+
++ Provide for a system of reporting whenever law enforcement officials use firearms in the performance of their duty.
+
+==== Policing unlawful assemblies
+
+12. As everyone is allowed to participate in lawful and peaceful assemblies, in accordance with the principles embodied in the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights, Governments and law enforcement agencies and officials shall recognize that force and firearms may be used only in accordance with principles 13 and 14.
+
+13. In the dispersal of assemblies that are unlawful but non-violent, law enforcement officials shall avoid the use of force or, where that is not practicable, shall restrict such force to the minimum extent necessary.
+
+14. In the dispersal of violent assemblies, law enforcement officials may use firearms only when less dangerous means are not practicable and only to the minimum extent necessary. Law enforcement officials shall not use firearms in such cases, except under the conditions stipulated in principle 9.
+
+==== Policing persons in custody or detention
+
+15. Law enforcement officials, in their relations with persons in custody or detention, shall not use force, except when strictly necessary for the maintenance of security and order within the institution, or when personal safety is threatened.
+
+16. Law enforcement officials, in their relations with persons in custody or detention, shall not use firearms, except in self-defence or in the defence of others against the immediate threat of death or serious injury, or when strictly necessary to prevent the escape of a person in custody or detention presenting the danger referred to in principle 9.
+
+17. The preceding principles are without prejudice to the rights, duties and responsibilities of prison officials, as set out in the Standard Minimum Rules for the Treatment of Prisoners, particularly rules 33, 34 and 54.
+
+==== Reporting and review procedures
+
+23. Persons affected by the use of force and firearms or their legal representatives shall have access to an independent process, including a judicial process. In the event of the death of such persons, this provision shall apply to their dependants accordingly.
+
+24. Governments and law enforcement agencies shall ensure that superior officers are held responsible if they know, or should have known, that law enforcement officials under their command are resorting, or have resorted, to the unlawful use of force and firearms, and they did not take all measures in their power to prevent, suppress or report such use.
+
+25. Governments and law enforcement agencies shall ensure that no criminal or disciplinary sanction is imposed on law enforcement officials who, in compliance with the Code of Conduct for Law Enforcement Officials and these basic principles, refuse to carry out an order to use force and firearms, or who report such use by other officials.
+
+26. Obedience to superior orders shall be no defence if law enforcement officials knew that an order to use force and firearms resulting in the death or serious injury of a person was manifestly unlawful and had a reasonable opportunity to refuse to follow it. In any case, responsibility also rests on the superiors who gave the unlawful orders.
+
+]
+
 #pagebreak()

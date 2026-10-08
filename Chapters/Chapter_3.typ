@@ -1017,4 +1017,163 @@ Navigating the world of Civil Liberties requires sensitivity and patience. Sensi
 
 ]
 
+#block(
+  fill: blue.lighten(80%),
+  inset: 10pt,
+)[
+
+== Report of the United Nations High Commissioner for Human Rights on the expert workshops on the prohibition of incitement to national, racial or religious hatred
+
+==== III. Implementing the prohibition of incitement to hatred
+
+13. Against this background, the following conclusions and recommendations constitute the synthesis of this long, transparent and deep reflection by experts. The conclusions --- in the area of legislation, judicial infrastructure, and policy --- are intended to better guide all stakeholders in implementing the international prohibition of any advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence.
+
+==== A. Legislation
+
+#strong()[Conclusions]
+
+14. Under international human rights standards, which are intended to guide legislation at the national level, expression labelled as "hate speech" can be restricted under articles 18 and 19 of the International Covenant on Civil and Political Rights on different grounds, including respect for the rights of others, public order or sometimes national security. States are also obliged to "prohibit" expression that amounts to "incitement" to discrimination, hostility or violence (art. 20, para. 2, of the Covenant and, under some different conditions, art. 4 of the International Convention on the Elimination of All Forms of Racial Discrimination).
+
+15. Discussions in the various workshops demonstrated the absence of a legal prohibition of incitement to hatred in many domestic legal frameworks worldwide, while legislation that prohibits incitement to hatred uses variable terminology and is often inconsistent with article 20 of the Covenant. The broader the definition of incitement to hatred is in domestic legislation, the more it opens the door for arbitrary application of the laws. The terminology relating to offences on incitement to national, racial or religious hatred varies from country to country and is increasingly vague, while new categories of restrictions or limitations to freedom of expression are being incorporated in national legislation. This contributes to the risk of misinterpretation of article 20 of the Covenant and additional limitations to freedom of expression that are not contained in article 19 of the Covenant.
+
+16. Some countries consider incitement to racial and religious hatred as offences, while others consider incitement to hatred along racial/ethnic lines only as offences. Some countries also recognize prohibition of incitement to hatred on other grounds. National provisions vary between civil law and criminal law: in many countries, incitement to hatred is a criminal offence, while in some countries, it is an offence under both criminal and civil law or under civil law only.
+
+17. At the international level, the prohibition of incitement to hatred is clearly established in article 20 of the International Covenant on Civil and Political Rights and article 4 of the International Convention on the Elimination of All Forms of Racial Discrimination. In its general comment No. 34 (2011) on freedoms of opinion and expression, the Human Rights Committee stresses that
+
+#block(inset: (left: 1.5em, right: 1.5em))[
+  "[p]rohibitions of displays of lack of respect for a religion or other belief system, including blasphemy laws, are incompatible with the Covenant, except in the specific circumstances envisaged in article 20, paragraph 2, of the Covenant. Such prohibitions must also comply with the strict requirements of article 19, paragraph 3, as well as such articles as 2, 5, 17, 18 and 26 of the ICCPR. Thus, for instance, it would be impermissible for any such laws to discriminate in favour of or against one or certain religions or belief systems, or their adherents over another, or religious believers over non-believers. Nor would it be permissible for such prohibitions to be used to prevent or punish criticism of religious leaders or commentary on religious doctrine and tenets of faith" (para. 48).
+]
+
+18. Article 20 of the Covenant requires a high threshold because, as a matter of fundamental principle, limitation of speech must remain an exception. Such threshold must take into account the provisions of article 19 of the Covenant. Indeed the three-part test (legality, proportionality and necessity) for restrictions also applies to cases involving incitement to hatred, in that such restrictions must be provided by law, be narrowly defined to serve a legitimate interest, and be necessary in a democratic society to protect that interest. This implies, among other things, that restrictions are clearly and narrowly defined and respond to a pressing social need; are the least intrusive measure available; are not overly broad, so that they do not restrict speech in a wide or untargeted way; and are proportionate so that the benefit to the protected interest outweighs the harm to freedom of expression, including with respect to the sanctions they authorize.#footnote[Note 4 in the original document.]
+
+19. At the national level, blasphemy laws are counterproductive, since they may result in de facto censure of all inter-religious or belief and intra-religious or belief dialogue, debate and criticism, most of which could be constructive, healthy and needed. In addition, many blasphemy laws afford different levels of protection to different religions and have often proved to be applied in a discriminatory manner. There are numerous examples of persecution of religious minorities or dissenters, but also of atheists and non-theists, as a result of legislation on what constitutes religious offences or overzealous application of laws containing neutral language. Moreover, the right to freedom of religion or belief, as enshrined in relevant international legal standards, does not include the right to have a religion or a belief that is free from criticism or ridicule.
+
+#strong()[Recommendations]
+
+20. In terms of general principles, a clear distinction should be made between three types of expression: expression that constitutes a criminal offence; expression that is not criminally punishable, but may justify a civil suit or administrative sanctions; expression that does not give rise to criminal, civil or administrative sanctions, but still raises concern in terms of tolerance, civility and respect for the rights of others.
+
+21. Bearing in mind the interrelationship between articles 19 and 20 of the International Covenant on Civil and Political Rights, States should ensure that their domestic legal framework on incitement to hatred is guided by express reference to article 20, paragraph 2, of the Covenant ("...advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence..."), and should consider including robust definitions of key terms such as hatred, discrimination, violence, hostility, among others. In this regard, legislation can draw, inter alia, from the guidance and definitions provided in the Camden Principles.#footnote[Note 6 in the original document.]
+
+22. States should ensure that the three-part test --- legality, proportionality and necessity --- for restrictions to freedom of expression also applies to cases of incitement to hatred.
+
+23. States should make use of the guidance provided by international human rights expert mechanisms, including the Human Rights Committee and the Committee on the Elimination on Racial Discrimination and their general comment No. 34 (2011) and general recommendation No. 15 (1993) respectively, as well as the respective special procedures mandate holders of the Human Rights Council.
+
+24. States are encouraged to ratify and effectively implement the relevant international and regional human rights instruments, remove any reservations thereto and honour their reporting obligations thereunder.
+
+25. States that have blasphemy laws should repeal them, as such laws have a stifling impact on the enjoyment of freedom of religion or belief, and healthy dialogue and debate about religion.
+
+26. States should adopt comprehensive anti-discrimination legislation that includes preventive and punitive action to effectively combat incitement to hatred.
+
+==== B. Jurisprudence
+
+#strong()[Conclusions]
+
+27. An independent judicial infrastructure that is regularly updated with regard to international standards and jurisprudence and with members acting in an impartial and objective manner, as well as respect for the rules of due process, are crucial for ensuring that the facts and legal qualifications of any individual case are assessed in a manner consistent with international human rights standards. This should be complemented by other checks and balances to protect human rights, such as independent national human rights institutions established in accordance with the Paris Principles.
+
+28. There is often very low recourse to judicial and quasi-judicial mechanisms in alleged cases of incitement to hatred. In many instances, victims are from disadvantaged or vulnerable groups and case law on the prohibition of incitement to hatred is not readily available. This is due to the absence or inadequacy of legislation or lack of judicial assistance for minorities and other vulnerable groups who constitute the majority of victims of incitement to hatred. The weak jurisprudence can also be explained by the absence of accessible archives, but also lack of recourse to courts owing to limited awareness among the general public as well as lack of trust in the judiciary.
+
+29. It was suggested that a high threshold be sought for defining restrictions on freedom of expression, incitement to hatred, and for the application of article 20 of the International Covenant on Civil and Political Rights. In order to establish severity as the underlying consideration of the thresholds, incitement to hatred must refer to the most severe and deeply felt form of opprobrium. To assess the severity of the hatred, possible elements may include the cruelty or intent of the statement or harm advocated, the frequency, quantity and extent of the communication. In this regard, a six-part threshold test was proposed for expressions considered as criminal offences:
+
++ *Context:* Context is of great importance when assessing whether particular statements are likely to incite discrimination, hostility or violence against the target group, and it may have a direct bearing on both intent and/or causation. Analysis of the context should place the speech act within the social and political context prevalent at the time the speech was made and disseminated;
+
++ *Speaker:* The speaker's position or status in the society should be considered, specifically the individual's or organization's standing in the context of the audience to whom the speech is directed;
+
++ *Intent:* Article 20 of the International Covenant on Civil and Political Rights anticipates intent. Negligence and recklessness are not sufficient for an act to be an offence under article 20 of the Covenant, as this article provides for "advocacy" and "incitement" rather than the mere distribution or circulation of material. In this regard, it requires the activation of a triangular relationship between the object and subject of the speech act as well as the audience.
+
++ *Content and form:* The content of the speech constitutes one of the key foci of the court's deliberations and is a critical element of incitement. Content analysis may include the degree to which the speech was provocative and direct, as well as the form, style, nature of arguments deployed in the speech or the balance struck between arguments deployed;
+
++ *Extent of the speech act:* Extent includes such elements as the reach of the speech act, its public nature, its magnitude and size of its audience. Other elements to consider include whether the speech is public, what means of dissemination are used, for example by a single leaflet or broadcast in the mainstream media or via the Internet, the frequency, the quantity and the extent of the communications, whether the audience had the means to act on the incitement, whether the statement (or work) is circulated in a restricted environment or widely accessible to the general public;
+
++ *Likelihood, including imminence:* Incitement, by definition, is an inchoate crime. The action advocated through incitement speech does not have to be committed for said speech to amount to a crime. Nevertheless, some degree of risk of harm must be identified. It means that the courts will have to determine that there was a reasonable probability that the speech would succeed in inciting actual action against the target group, recognizing that such causation should be rather direct.
+
+#strong()[Recommendations]
+
+30. National and regional courts should be regularly updated about international standards and international, regional and comparative jurisprudence relating to incitement to hatred because when confronted with such cases, courts need to undertake a thorough analysis based on a well thought through threshold test.
+
+31. States should ensure the right to a fair and public hearing by a competent, independent and impartial tribunal established by law.
+
+32. Due attention should be given to minorities and vulnerable groups by providing legal and other types of assistance for their members.
+
+33. States should ensure that persons who have suffered actual harm as a result of incitement to hatred have a right to an effective remedy, including a civil or non-judicial remedy for damages.
+
+34. Criminal sanctions related to unlawful forms of expression should be seen as last resort measures to be applied only in strictly justifiable situations. Civil sanctions and remedies should also be considered, including pecuniary and non-pecuniary damages, along with the right of correction and the right of reply. Administrative sanctions and remedies should also be considered, including those identified and put in force by various professional and regulatory bodies.
+
+==== C. Policies
+
+#strong()[Conclusions]
+
+35. While a legal response is important, legislation is only part of a larger toolbox to respond to the challenges of hate speech. Any related legislation should be complemented by initiatives from various sectors of society geared towards a plurality of policies, practices and measures nurturing social consciousness, tolerance and understanding change and public discussion. This is with a view to creating and strengthening a culture of peace, tolerance and mutual respect among individuals, public officials and members of the judiciary, as well as rendering media organizations and religious/community leaders more ethically aware and socially responsible. States, media and society have a collective responsibility to ensure that acts of incitement to hatred are spoken out against and acted upon with the appropriate measures, in accordance with international human rights law.
+
+36. Political and religious leaders should refrain from using messages of intolerance or expressions which may incite violence, hostility or discrimination; but they also have a crucial role to play in speaking out firmly and promptly against intolerance, discriminatory stereotyping and instances of hate speech. It should be made clear that violence can never be tolerated as a response to incitement to hatred.
+
+37. To tackle the root causes of intolerance, a much broader set of policy measures is necessary, for example in the areas of intercultural dialogue --- reciprocal knowledge and interaction ---, education on pluralism and diversity, and policies empowering minorities and indigenous people to exercise their right to freedom of expression.
+
+38. States have the responsibility to ensure space for minorities to enjoy their fundamental rights and freedoms, for instance by facilitating registration and functioning of minority media organizations. States should strengthen the capacities of communities to access and express a range of views and information and embrace the healthy dialogue and debate that they can encompass.
+
+39. Certain regions have a marked preference for a non-legislative approach to combating incitement to hatred through, in particular, the adoption of public policies and the establishment of various types of institutions and processes, including truth and reconciliation commissions. The important work of regional human rights mechanisms, specialized bodies, a vibrant civil society and independent monitoring institutions is fundamentally important in all regions of the world. In addition, positive traditional values, compatible with internationally recognized human rights norms and standards, can also contribute towards countering incitement to hatred.
+
+40. The importance of the media and other means of public communication in enabling free expression and the realization of equality is fundamental. The traditional media continue to play an important role globally, but they are undergoing significant transformation. New technologies --- including digital broadcasting, mobile telephony, the Internet and social networks --- vastly enhance the dissemination of information and open up new forms of communication, such as the blogosphere.
+
+41. Steps taken by the Human Rights Council, in particular the adoption without a vote of resolution 16/18 on combating intolerance, negative stereotyping and stigmatization of, and discrimination, incitement to violence, and violence against persons based on religion or belief, which constitutes a promising platform for effective, integrated and inclusive action by the international community. This resolution requires implementation and constant follow-up at the national level by States, including through the Rabat Plan of Action which contributes to its fulfilment.
+
+#strong()[Recommendations to States]
+
+42. States should enhance their engagement in broad efforts to combat negative stereotypes of and discrimination against individuals and communities on the basis of their nationality, ethnicity, religion or belief.
+
+43. States should promote intercultural understanding, including on gender sensitivity. In this regard, all States have the responsibility to build a culture of peace and a duty to put an end to impunity.
+
+44. States should promote and provide teacher training on human rights values and principles, and introduce or strengthen intercultural understanding as part of the school curriculum for pupils of all ages.
+
+45. States should build the capacity to train and sensitize security forces, law-enforcement agents and those involved in the administration of justice on issues concerning the prohibition of incitement to hatred.
+
+46. States should consider creating equality bodies, or enhance this function within national human rights institutions (that have been established in accordance with the Paris Principles) with enlarged competencies in fostering social dialogue, but also in relation to accepting complaints about incidents of incitement to hatred. In order to render such functions efficient, new adapted guidelines, tests and good practices are needed so as to avoid arbitrary practices and improve international coherence.
+
+47. States should ensure the necessary mechanisms and institutions in order to guarantee the systematic collection of data in relation to incitement to hatred offences.
+
+48. States should have in place a public policy and a regulatory framework which promote pluralism and diversity of the media, including new media, and which promotes universal and non-discrimination in access to and use of means of communication.
+
+49. States should strengthen the current international human rights mechanisms, particularly the human rights treaty bodies such as the Human Rights Committee and the Committee on the Elimination of Racial Discrimination, as well as the special procedures mandate holders, as they provide advice and support to States with regard to national policies for implementing human rights law.
+
+#strong()[Recommendations to the United Nations]
+
+50. The Office of the High Commissioner for Human Rights (OHCHR) should be properly resourced to adequately support the international expert mechanisms working to protect freedom of expression and freedom of religion, and prevent incitement to hatred and discrimination and on related topics. In this regard, States should support the efforts of the High Commissioner for Human Rights with a view to strengthening the human rights treaty bodies.
+
+51. OHCHR is invited to work together with States that wish to avail themselves of its services in order to enhance their domestic normative and policy framework regarding the prohibition of incitement to hatred. In this regard, OHCHR should consider --- inspired by the four regional expert workshops --- developing tools, including a compilation of best practices and elements of a model legislation on the prohibition of incitement to hatred as reflected in international human rights law. OHCHR should also consider organizing regular judicial colloquia in order to update national judicial authorities and stimulate the sharing of experiences relating to the prohibition of incitement to hatred which would enrich the progressive development of national legislation and case law on this evolving issue.
+
+52. Relevant human rights treaty bodies and special procedures mandate holders should enhance their synergies and cooperation, including through joint action, as appropriate, to denounce instances of advocacy of national, racial or religious hatred that constitutes incitement to discrimination, hostility or violence.
+
+53. Various entities of the United Nations system, including OHCHR, United Nations Alliance of Civilizations, and the Office of the Special Advisor on the Prevention of Genocide should enhance their cooperation in order to maximize synergies and stimulate joint action.
+
+54. Cooperation and information-sharing (a) between various regional and cross-regional mechanisms, such as the Council of Europe, the Organization for Security and Cooperation in Europe, the European Union, the Organization of American States, the African Union, the Association of Southeast Asian Nations, as well as the Organisation of Islamic Cooperation, and (b) between these organizations and the United Nations Organization should be further enhanced.
+
+55. Consider implementing, at the national level and in cooperation with States, measures to realize the recommendations addressed to States.
+
+#strong()[Recommendations to other stakeholders]
+
+56. Non-governmental organizations, national human rights institutions as well as other civil society groups should create and support mechanisms and dialogues to foster intercultural and interreligious understanding and learning.
+
+57. Political parties should adopt and enforce ethical guidelines in relation to the conduct of their representatives, particularly with respect to public speech.
+
+58. Self-regulation, where effective, remains the most appropriate way to address professional issues relating to the media. In line with principle 9 of the Camden Principles, all media should, as a moral and social responsibility and through self-regulation, play a role in combating discrimination and promoting intercultural understanding, including by considering the following:
+
++ Taking care to report in context and in a factual and sensitive manner, while ensuring that acts of discrimination are brought to the attention of the public.
+
++ Being alert to the danger of furthering discrimination or negative stereotypes of individuals and groups in the media.
+
++ Avoiding unnecessary references to race, religion, gender and other group characteristics that may promote intolerance.
+
++ Raising awareness of the harm caused by discrimination and negative stereotyping.
+
++ Reporting on different groups or communities and giving their members the opportunity to speak and to be heard in a way that promotes a better understanding of them, while at the same time reflecting the perspectives of those groups or communities.
+
+59. Furthermore, voluntary professional codes of conduct for the media and journalists should reflect the principle of equality, and effective steps should be taken to promulgate and implement such codes.
+
+==== IV. Conclusion
+
+60. While the concept of freedom of expression has received systematic attention in international human rights law and in many national legislations, its practical application and recognition is not fully respected by all countries worldwide. At the same time, international human rights standards on the prohibition of incitement to national, racial or religious hatred still need to be integrated into domestic legislation and policies in many parts of the world. This explains both the objective difficulty and political sensitivity of defining this concept in a manner that respects the freedom of expression.
+
+61. The preceding conclusions and recommendations are steps towards addressing these challenges. It is hoped that they will boost both national efforts and international cooperation in this area.
+
+]
+
 #pagebreak()
