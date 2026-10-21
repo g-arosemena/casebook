@@ -34,7 +34,7 @@
 
 #include "Chapters/Chapter_5.typ"
 
-#include "Chapters/Chapter_6.typ"
+#include "Chapters/Chapter_7.typ"
 
 #include "Chapters/Chapter_7.typ"
 
