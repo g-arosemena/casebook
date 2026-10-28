@@ -190,36 +190,19 @@ One should be wary about exceptionalism about human rights; the idea that IHRL g
   Written statements on the matter were submitted to the Court by the
   following States and Organizations:
 
-  The Organization of American States, the Union of Soviet Socialist
-  Republics, the Hashemite Kingdom of Jordan, the United States of
-  America, the United Kingdom of Great Britain
+  On Question I:
+  a State which has made iand maintained a reservation States to make reservations.
+  which has been Objected to by one or more of the states parties to the Convention but not by others, can be regarded as being a party to the Convention if the reservation is compatible with
+  the object and purpose of the Convention; otherwise, that State cannot be regarded as being party to the Convention.
 
-  as incompatible with the purpose of the Convention, and might wish to
-  settle the dispute either by special agreement or by the procedure laid
-  down in the Convention itself.
+[...]
 
-  The disadvantages which result from this possible divergence of views
-  are real. They could have been remedied by an article on reservations.
-  They are mitigated by the common duty of the contracting States to be
-  guided in their judgment by the compatibility or incompatibility of the
-  reservation with the object and purpose of the Convention. It must
-  clearly be assumed that the contracting States are desirous of
-  preserving intact at least what is essential to the object of the
-  Convention.
+  The first question refers to whether a State which has made a reservation can, while maintaining it, be regarded as a party to the Convention on Genocide, when some of the parties object to the reservation. In its treaty relations, a State cannot be bound without its consent. A reservation can be effected only with its agreement. On the other hand, it is a recognised principle that a multilateral Convention is the result of an agreement freely concluded. To this principle was linked the notion of integrity of the Convention as adopted, a notion which, in its traditional concept, involved the proposition that no reservation was valid unless it was accepted by all contracting parties. This concept retains undisputed value as a principle, but as regards the Genocide Convention, its application is made more flexible by a variety of circumstances among which may be noted hte universal character of the United Nations under whose auspices the Convention was concluded and hte very wide degree of participation which the Convention itself has envisaged. This participation in conventions of this type has already given rise to greater flexibility in practice. More general resorts to reservations, very great allowance made to tacit assent to reservations, the admission of the state which has made the reservation as a party to the Convention in relation to the States which have accepted it, all these factors are manifestations of a new need for flexibility in the operation of multilateral conventions. Moreover, the Convention on Genocide, although adopted unanimously, is nevertheless the result of a series of majority votes -- which may make it necessary for certain States to make reservations.
 
-  The Court finally turned to question III concerning the effect of an
-  objection made by a State entitled to sign and ratify but which had not
-  yet done so, or by a State which has signed but has not yet ratified. In
-  the former case, it would be inconceivable that a State possessing no
-  rights under the Convention could exclude another State. The case of the
-  signatory States is more favourable. They have taken certain steps
-  necessary for the exercise of the right of being a party. This
-  provisional status confers upon them a right to formulate as a
-  precautionary measure objections which have themselves a provisional
-  character. If signature is followed by ratification, the objection
-  becomes final. Otherwise, it disappears. Therefore, the objection does
-  not have an immediate legal effect but expresses and proclaims the
-  attitude of each signatory State on becoming a party.
+  In the absence of an article in the Convention providing for reservations, one cannot infer that they are prohibited. In the absence of any express provisions on the subject, to determine the possibility of making reservations as well as their effects, one must consider their character, their purpose, their provisions, their mode of preparation and adoption. The preparation of the Convention on Genocide shows that an undertaking was reached within the General Assembly on the faculty to make reservations and that it is permitted to conclude therefrom that States, becoming parties to the Convention, gave their assent thereto.
+
+  What is the character of the reservations which may be made and the objections which may be raised thereto? The solution must be found in the special characteristics of the Convention on Genocide. The principles underlying hte Convention are recognised by the civilised nations as binding on States even without any conventional obligation. It was intended that hte Convention would be universal in scope. Its purpose is purely humanitarian and civilising. The contracting States do not have any individual advantages or disadvantages, nor interests of their own, but merely a common interest. This leads to the conclusion that hte object and purpose of the Convention imply that it was the intention of the General Assembly and of the States which adopted it, that as many States as possible should participate. This purpose would be defeated if an objection to a minor reservation should produce complete exclusion from the Convention. On the other hand, the contracting parties could not have intended to sacrifice the very object of the Convention in favour of a vague desire to secure as many participants as possible. It follows that the compatibility of the reservation and the object and purpose of the Convention is the criterion to determine teh attitude of the State which makes the reservation and of the State which objects. Consequently, question I, on account of its abstract character, cannot be given an absolute answer. The appraisal of a reservation and the effect of the objections depend upon the circumstances of each individual case.
+
 
 ]
 
